@@ -25,3 +25,5 @@ nodes from the same chain or restaurant into a single one.
 ## Visualization
 The visualization of the various proposed graphs can be found in html/graphs.html.
 Various visualizations have been suggested based on the data, along with the option to configure aspects of the graph.
+
+![Alt Text](graph.gif)
